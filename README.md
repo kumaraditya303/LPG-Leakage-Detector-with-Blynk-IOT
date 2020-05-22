@@ -14,10 +14,16 @@ Project [website](https://rahuladitya303.github.io/LPG-Leakage-Detector-with-Bly
 * Android phone or iOS phone
 * Arduino IDE or PlatformIO 
 ## Create account on Blynk
-* Download Blynk on your mobile phone
-* Create a account with email 
-* Scan the QR code with Blynk and you will get my project  <br> <br>
-![IMAGE](https://github.com/rahuladitya303/LPG-Leakage-Detector-with-Blynk-IOT/raw/master/Blynk-app.jpg)
+* Download Blynk on your mobile phone <br>
+![IMAGE](https://hackster.imgix.net/uploads/attachments/1126055/screenshot_20200522-154941_google_play_store_rhPcQGN3p7.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)
+* Create a account <br>
+![IMAGE](https://hackster.imgix.net/uploads/attachments/1126052/screenshot_20200522-155030_blynk_G527rKXeS6.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)
+* Scan the QR code with Blynk and you will get my project  <br>
+![IMAGE](https://hackster.imgix.net/uploads/attachments/1126058/screenshot_20200522-155132_blynk_RvbXTOzrgU.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)
+* You will get my project and click on settings and click on email token to receive token on email <br>
+![IMAGE](https://hackster.imgix.net/uploads/attachments/1126054/screenshot_20200522-155248_blynk_jSLVD3ZgtH.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)
+* Token would be used later in main file<br>
+![IMAGE](https://hackster.imgix.net/uploads/attachments/1126050/annotation_2020-05-22_155848_qX6LCMdOwj.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)
 
 ## Build and upload project 
 * Download the latest release from [GitHub](https://github.com/rahuladitya303/LPG-Leakage-Detector-with-Blynk-IOT.git)
@@ -37,4 +43,9 @@ NTPClient timeClient(ntpUDP, "pool.ntp.org", 19800, 60000); // change time zone 
 | India | 19800|
 | New York  | -18000 |
 | London | 0 |
+
+* Install the dependencies  
+⋅⋅* Blynk 
+
+# Project Working
 
