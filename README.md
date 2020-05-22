@@ -16,7 +16,7 @@ Project [website](https://rahuladitya303.github.io/LPG-Leakage-Detector-with-Bly
 ## Create account on Blynk
 * Download Blynk on your mobile phone
 * Create a account with email 
-* Scan the QR code with Blynk and you will get my project  <br> 
+* Scan the QR code with Blynk and you will get my project  <br> <br>
 ![IMAGE](https://github.com/rahuladitya303/LPG-Leakage-Detector-with-Blynk-IOT/raw/master/Blynk-app.jpg)
 
 ## Build and upload project 
