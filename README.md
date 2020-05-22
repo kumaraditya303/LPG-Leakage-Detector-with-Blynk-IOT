@@ -6,15 +6,14 @@ ms.date: 22/05/2020
 ---
 
 # LPG Leakage Detector with Blynk IOT
-> [!NOTE]
 > This is version v2.0 of the LPG Leakage Detector project . In the earlier project a custom library was used to send email whereas in this project Blynk IOT service is used for sending email and also supports notification!
 
 **This is Blynk IOT project which monitors the LPG sensor data 500 times, takes the average of sampling to reduce noise, notifies the user of the leakage and sends email.
-You need to download [Blynk app](https://play.google.com/store/apps/details?id=cc.blynk) from playstore and create an account and add my app to your account by scanning the QR Code.
+You need to download [Blynk app](https://play.google.com/store/apps/details?id=cc.blynk) from playstore and create an account and add my app to your account by scanning the QR Code.<br><br>
+Project [v1.0](https://github.com/rahuladitya303/ESP8266_LPG_Leakage_Email_Sender.git)**
 <br>
 Project [repository](https://github.com/rahuladitya303/LPG-Leakage-Detector-with-Blynk-IOT.git)<br>
 Project [website](https://rahuladitya303.github.io/LPG-Leakage-Detector-with-Blynk-IOT/)<br>
-Project [v1.0](https://github.com/rahuladitya303/ESP8266_LPG_Leakage_Email_Sender.git)**
 
 # Getting Started with Arduino IDE
 * Download the latest release from [GitHub](https://github.com/rahuladitya303/LPG-Leakage-Detector-with-Blynk-IOT.git)
