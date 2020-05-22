@@ -37,8 +37,8 @@ ___
 ![IMAGE](https://hackster.imgix.net/uploads/attachments/1126054/screenshot_20200522-155248_blynk_jSLVD3ZgtH.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)
 * Token would be used later in main file<br>
 ![IMAGE](https://hackster.imgix.net/uploads/attachments/1126050/annotation_2020-05-22_155848_qX6LCMdOwj.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)<br>
-* QR Code
-![IMAGE](https://hackster.imgix.net/uploads/attachments/1126081/screenshot_20200522-160132_blynk_Lbhk68qcuR.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)
+* QR Code<br>
+![IMAGE](https://hackster.imgix.net/uploads/attachments/1126081/screenshot_20200522-160132_blynk_Lbhk68qcuR.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)<br>
 
 
 ## Build and upload project 
