@@ -8,6 +8,19 @@ Project [v1.0](https://github.com/rahuladitya303/ESP8266_LPG_Leakage_Email_Sende
 Project [repository](https://github.com/rahuladitya303/LPG-Leakage-Detector-with-Blynk-IOT.git)<br>
 Project [website](https://rahuladitya303.github.io/LPG-Leakage-Detector-with-Blynk-IOT/)<br>**
 
+___
+
+# Project Working
+* Sensor Data Logging<br>
+![IMAGE](https://hackster.imgix.net/uploads/attachments/1126073/screenshot_20200522-162634_blynk_Rqx406p0IK.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)<br>
+* LPG Leakage Notification<br>
+![IMAGE](https://hackster.imgix.net/uploads/attachments/1126072/screenshot_20200522-162653_blynk_B0kt1D3sqq.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)<br>
+* LPG Leakage Email
+![IMAGE](https://hackster.imgix.net/uploads/attachments/1126075/annotation_2020-05-22_163006_ADuiSFfOCA.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)
+
+
+___
+
 # Getting Started 
 ## Prerequisites
 * ESP8266 dev board or NodeMCU
@@ -44,8 +57,12 @@ NTPClient timeClient(ntpUDP, "pool.ntp.org", 19800, 60000); // change time zone 
 | New York  | -18000 |
 | London | 0 |
 
-* Install the dependencies  
-⋅⋅* Blynk 
+* Install the dependencies<br>
+[Blynk](https://github.com/blynkkk/blynk-library.git)<br>
+[NTPClient](https://github.com/arduino-libraries/NTPClient.git)<br>
 
-# Project Working
+* Upload the project to ESP8266 board.
 
+___
+
+# Project made and maintained by Kumar Aditya
