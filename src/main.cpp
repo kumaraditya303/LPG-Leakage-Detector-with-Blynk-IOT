@@ -23,9 +23,9 @@
  * replace with your credentials
 */
 
-const char auth[] = "Cd1kKPUH-vaaU0XBbN2bN1egE1vLFM6r"; // replace with AUTH token
-const char ssid[] = "AndroidAPB9CF";                    // replace with SSID
-const char password[] = "rahul12345";                   // replace with PASSWORD
+const char auth[] = ""; // replace with AUTH token
+const char ssid[] = "";                    // replace with SSID
+const char password[] = "";                   // replace with PASSWORD
 const int threshold = 200;                              // normal concentration not to be exceeded
 const int nSampling = 500;                              // sampling rate
 /**
